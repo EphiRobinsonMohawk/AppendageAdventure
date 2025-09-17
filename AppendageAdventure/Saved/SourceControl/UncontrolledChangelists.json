@@ -5,12 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ephir/source/repos/AppendageAdventure/AppendageAdventure/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Content/ThirdPerson/Blueprints/temp.uasset",
+				"C:/Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/Jonah/Desktop/Digital Proto/DevLog1/AppendageAdventure/AppendageAdventure/Content/NewBlueprint.uasset",
 				"C:/Users/Jonah/Desktop/Digital Proto/DevLog1/AppendageAdventure/AppendageAdventure/Content/TouchForApp.uasset",
 				"C:/Users/Jonah/Desktop/Digital Proto/DevLog1/AppendageAdventure/AppendageAdventure/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/Jonah/Desktop/Digital Proto/DevLog1/AppendageAdventure/AppendageAdventure/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/Q2/NPJ9NSXMJSVFOR0YQOYDMZ.uasset",
-				"C:/Users/Jonah/Desktop/Digital Proto/DevLog1/AppendageAdventure/AppendageAdventure/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/ephir/source/repos/AppendageAdventure/AppendageAdventure/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Jonah/Desktop/Digital Proto/DevLog1/AppendageAdventure/AppendageAdventure/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
