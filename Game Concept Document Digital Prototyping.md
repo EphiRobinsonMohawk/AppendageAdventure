@@ -4,7 +4,7 @@
 
 (The title communicates the game’s quirky merging/swapping mechanic at the heart of both the gameplay and identity.)
 
-**Question: How do we make the players feel curious by having a modular character that can grow**
+**Question: How do we make a modular character that brings out the curiosity in someone?**
 
 ## **High-Level Concept**
 
