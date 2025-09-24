@@ -6,6 +6,9 @@
 
 ## **High-Level Concept**
 
+Question: How do we make the players feel curious by having a modular character that can grow
+
+
 ### **Concept Statement**
 
 A whimsical family-friendly puzzle-platformer where players collect and merge body parts to overcome unique challenges. Every new part changes how you move, solve puzzles, and explore — from spider legs that let you scale walls to wings that let you soar over obstacles.
