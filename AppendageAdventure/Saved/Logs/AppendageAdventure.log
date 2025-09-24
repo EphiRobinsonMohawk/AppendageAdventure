@@ -4601,3 +4601,90 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.24-19.04.48:017][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
 [2025.09.24-19.04.48:025][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
 [2025.09.24-19.04.48:108][499]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.09.24-19.05.13:337][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.24-19.05.13:339][716]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.040
+[2025.09.24-19.05.13:339][716]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.09.24-19.05.13:389][716]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.09.24-19.05.13:389][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.09.24-19.05.13:416][716]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2025.09.24-19.05.13:416][716]LogSavePackage: Moving '../../../../../../Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Saved/BP_ThirdPersonCharacter_Auto31F08B4C74BB21DD0ACDA7FB8F35696F3.tmp' to '../../../../../../Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2025.09.24-19.05.13:417][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models_And_Textures/Body_main] ([1] browsable assets)...
+[2025.09.24-19.05.13:417][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models_And_Textures/Body_main]
+[2025.09.24-19.05.13:423][716]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models_And_Textures/Body_main_Auto3
+[2025.09.24-19.05.13:423][716]LogSavePackage: Moving '../../../../../../Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Saved/Body_main_Auto39215E2804D6EE5B14AE4D3836C2DD07C.tmp' to '../../../../../../Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Saved/Autosaves/Game/Models_And_Textures/Body_main_Auto3.uasset'
+[2025.09.24-19.05.13:424][716]LogFileHelpers: Auto-saving content packages took 0.085
+[2025.09.24-19.05.19:496][912]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.24-19.05.19:502][912]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.24-19.05.19:502][912]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.09.24-19.05.19:504][912]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.488 ms (total: 115.381 ms)
+[2025.09.24-19.05.19:505][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-19.05.19:538][912]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.24-19.05.19:542][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003571s)
+[2025.09.24-19.05.19:542][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003626s)
+[2025.09.24-19.05.19:579][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.24-19.05.19:581][912]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.09.24-19.05.19:583][912]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.24-19.05.19:583][912]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.24-19.05.19:583][912]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.24-19.05.19:583][912]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.24-19.05.19:583][912]LogWorldPartition: Display: WorldPartition initialize took 997 us (total: 128.179 ms)
+[2025.09.24-19.05.19:583][912]LogPlayLevel: PIE: World Init took: (0.002436s)
+[2025.09.24-19.05.19:584][912]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2025.09.24-19.05.19:584][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-19.05.19:584][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-19.05.19:584][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-19.05.19:584][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-19.05.19:584][912]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-19.05.19:584][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-19.05.19:584][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-19.05.19:584][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-19.05.19:584][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-19.05.19:584][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-19.05.19:584][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-19.05.19:588][912]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-19.05.19:608][912]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.09.24-19.05.19:608][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-19.05.19:608][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-19.05.19:608][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-19.05.19:608][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2025.09.24-19.05.19:608][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2025.09.24-19.05.19:611][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2025.09.24-19.05.19:611][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2025.09.24-19.05.19:611][912]LogInit: FAudioDevice initialized with ID 52.
+[2025.09.24-19.05.19:611][912]LogAudio: Display: Audio Device (ID: 52) registered with world 'ThirdPersonMap'.
+[2025.09.24-19.05.19:611][912]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2025.09.24-19.05.19:613][912]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.24-19.05.19:615][912]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.09.24-15.05.19
+[2025.09.24-19.05.19:615][912]LogWorld: Bringing up level for play took: 0.001756
+[2025.09.24-19.05.19:619][912]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.09.24-19.05.19:622][912]PIE: Server logged in
+[2025.09.24-19.05.19:623][912]PIE: Play in editor total start time 0.121 seconds.
+[2025.09.24-19.05.23:089][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-19.05.23:089][242]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.09.24-19.05.23:089][242]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-19.05.23:090][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-19.05.23:090][242]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.09.24-19.05.23:095][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-19.05.23:097][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-19.05.23:116][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.24-19.05.23:118][242]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2025.09.24-19.05.23:118][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2025.09.24-19.05.23:120][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2025.09.24-19.05.23:125][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-19.05.23:128][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.24-19.05.23:223][243]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.09.24-19.05.27:149][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-19.05.27:221][475]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.09.24-19.05.27:221][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.09.24-19.05.27:246][475]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.09.24-19.05.27:246][475]LogSavePackage: Moving '../../../../../../Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Saved/BP_ThirdPersonCharacter1B1635204D2122EF567728A9AE692839.tmp' to '../../../../../../Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.09.24-19.05.27:254][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.215 ms (total: 1.10 sec)
+[2025.09.24-19.05.27:326][475]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-19.05.27:326][475]LogContentValidation: Enabled validators:
+[2025.09.24-19.05.27:326][475]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-19.05.27:326][475]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-19.05.27:326][475]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-19.05.27:326][475]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-19.05.27:326][475]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-19.05.27:326][475]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-19.05.27:326][475]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
