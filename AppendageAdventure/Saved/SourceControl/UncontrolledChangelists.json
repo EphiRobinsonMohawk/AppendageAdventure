@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/dylan/Desktop/Github repos/AppendageAdventure/AppendageAdventure/Content/Models_And_Textures/Soft_Belly.uasset",
+				"C:/Users/dylan/Desktop/Github repos/AppendageAdventure/AppendageAdventure/Content/Models_And_Textures/Socket.uasset",
+				"C:/Users/dylan/Desktop/Github repos/AppendageAdventure/AppendageAdventure/Content/Models_And_Textures/Mandibles.uasset",
+				"C:/Users/dylan/Desktop/Github repos/AppendageAdventure/AppendageAdventure/Content/Models_And_Textures/Leg.uasset",
+				"C:/Users/dylan/Desktop/Github repos/AppendageAdventure/AppendageAdventure/Content/Models_And_Textures/Claw.uasset",
+				"C:/Users/dylan/Desktop/Github repos/AppendageAdventure/AppendageAdventure/Content/Models_And_Textures/Body_main.uasset",
+				"C:/Users/dylan/Desktop/Github repos/AppendageAdventure/AppendageAdventure/Content/Models_And_Textures/Body.uasset",
 				"C:/Users/ephir/source/repos/AppendageAdventure/AppendageAdventure/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ephir/OneDrive/Documents/GitHub/AppendageAdventure/AppendageAdventure/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
